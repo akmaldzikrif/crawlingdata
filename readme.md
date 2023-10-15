@@ -1,4 +1,4 @@
-Cara menjalakan aplikasi crawler dan menggunakan container NoSQL
+Penjelasan Kode dan cara menjalakan aplikasi crawler dan menggunakan container NoSQL
 - Buka aplikasi atau open source python coder seperti VSC, jupyter notebook, atau google collab, dsb
 
 - lalu install library pandas dan node js dengan perintah:
